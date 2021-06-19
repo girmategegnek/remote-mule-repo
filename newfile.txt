@@ -1,0 +1,11 @@
+the quick brownfox jups over the lazy dog.
+
+
+
+echo "# redrepo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/girmategegnek/remote-mule-repo.git
+git push -u origin main
